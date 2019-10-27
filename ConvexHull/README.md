@@ -2,6 +2,8 @@
 
 <i>Identify the convex hull, for a given set of points on a 2D plane.</i>
 
+<img src="convex_hull.png" height="250">
+
 ### Usage:
  * To run, open index.html in your browser.
  * For hot reloading, install `fswatch` and then run the following command:
